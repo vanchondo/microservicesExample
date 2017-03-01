@@ -1,0 +1,12 @@
+Requirements
+    JDK 8
+    Maven
+    RabbitMQ
+
+RabbitMQ installation 
+    brew install rabbitmq
+
+Start RabitMQ
+    rabbitmq-server
+    or
+    /usr/local/Cellar/rabbitmq/3.6.6/sbin/rabbitmq-server
